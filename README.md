@@ -7,7 +7,7 @@ Es una recreación del clásico juego de la serpiente que tiene que comer manzan
 
 En cuanto se toca o bien un bloque que forma el borde o bien un bloque intermedio la serpiente queda encerrada en una cárcel que representa que se ha perdido, para salir de la
 cárcel es necesario recargar la página y volver a empezar el juego. Cuando se acumulan 10 manzanas sin perder la serpiente es encerrada en una cárcel de color dorado que
-representa haber ganado el juego. 
+representa haber ganado el juego.
 
 ![image](https://github.com/Antoniiosc7/SnakeGamePD/assets/67718811/2c29bd07-fdcc-4205-9b85-43d247f45e93)
 
