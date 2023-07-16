@@ -11,7 +11,7 @@ representa haber ganado el juego.
 
 ![image](https://github.com/Antoniiosc7/SnakeGamePD/assets/67718811/2c29bd07-fdcc-4205-9b85-43d247f45e93)
 
-## Como ejecutarlo
+## Cómo ejecutarlo
 
 Para ejecutarlo, en primer luegar será necesario abrir el terminal, escribir en la consola: 
 
